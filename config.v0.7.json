@@ -9,13 +9,13 @@
         {
             "type": "packetgen",
             "count": 4,
-            "name": "https://sales.uralsib.ru",
+            "name": "https://учись-писать-start.рф",
             "args": {
                 "connection": {
                     "type": "net",
                     "args": {
                         "protocol": "tcp",
-                        "address": "sales.uralsib.ru:443",
+                        "address": "учись-писать-start.рф:443",
                         "tls_config": {
                             "insecure_skip_verify": true
                         }
@@ -26,7 +26,7 @@
                         "type": "http",
                         "data": {
                             "method": "POST",
-                            "path": "https://sales.uralsib.ru",
+                            "path": "https://учись-писать-start.рф",
                             "headers": {
                                 "Accept": "*/*",
                                 "Accept-Encoding": "gzip, deflate, br",
